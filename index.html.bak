@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Markus Trunschke - Contact</title>
+		<title>Markus Trunschke</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="description" content="Information on research and teaching activities for Markus Trunschke, ZEW-Mannheim and KU Leuven." />
@@ -14,6 +14,7 @@
 		<meta name="keywords" content="Markus Trunschke, ZEW, Mannheim, ZEW-Mannheim, KU Leuven, MSI, Economics, Research, Innovation Economics, Econometrics" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
 		<!-- Google Tag Manager -->
 		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -27,6 +28,7 @@
 		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M6BVVLV"
 			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
+
 		<!-- Wrapper -->
 			<div id="wrapper">
 
@@ -34,10 +36,6 @@
 					<header id="header">
 						<div class="inner">
 
-							<!-- Logo -->
-								<a href="index.html" class="logo">
-									<span class="symbol"></span><span class="title">Markus Trunschke</span>
-								</a>
 
 							<!-- Nav -->
 								<nav>
@@ -49,8 +47,8 @@
 						</div>
 					</header>
 
-				<!-- Menu -->
-					<!-- Add name and hyper reference below the existing pages to add more -->
+				<!-- ********* Menu ********* -->
+				<!-- Add name and hyper reference below the existing pages to add more -->
 					<nav id="menu">
 						<h2>Menu</h2>
 						<ul>
@@ -66,23 +64,75 @@
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
-						<h1>News</h1>
-							<table cellspacing="0" border="0">
-								<tr>
-									<td valign="top" style="width: 150px; height: 85px">9.2022</td>
-									<td valign="top" style="width: 650px"> Organization of the 9th Innovation and Patenting Conference is under way. Submission deadline is October 29th. Check out the call <a href="https://zew.de/innovation-patenting2022">here</a>  </td>
-								</tr>
-								<tr>
-									<td valign="top" style="width: 150px; height: 85px">8.2022</td>
-									<td valign="top" style="width: 650px"> Visiting <a href="https://kenjudd.org/">Ken Judd</a> at Stanford University's Hoover Institution for a joint research project </td>
-								</tr>
-								<tr>
-									<td valign="top" style="width: 150px; height: 85px">7.6.2022</td>
-									<td valign="top" style="width: 650px"> Presentation at the Munich Summer Institute's PhD Workshop</td>
-								</tr>
-							</table>
+							<header>
+								<h1>Markus Trunschke<br />
+								</h1>
+								<p>I am a Ph.D. student at KU Leuven and a researcher at ZEW-Mannheim interested in Innovation Economics, Industrial Organization, and Applied Microeconometrics.</p>
+							</header>
+							<section class="tiles">
+								<article class="style0">
+									<span >
+										<img src="images/mtu_picture.jpg" alt="" />
+									</span>
+								</article>
+								<article class="style4">
+									<span class="image">
+										<img src="images/pic04.jpg" alt="" />
+									</span>
+									<a href="News.html">
+										<h2>News</h2>
+										<div class="content">
+											<p>Updates about current activities.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style1">
+									<span class="image">
+										<img src="images/pic01.jpg" alt="" />
+									</span>
+									<a href="Research.html">
+										<h2>Research</h2>
+										<div class="content">
+											<p>A selected list of research projects.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style2">
+									<span class="image">
+										<img src="images/pic02.jpg" alt="" />
+									</span>
+									<a href="CV.html">
+										<h2>CV</h2>
+										<div class="content">
+											<p>Some information about me.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style3">
+									<span class="image">
+										<img src="images/pic03.jpg" alt="" />
+									</span>
+									<a href="Contact.html">
+										<h2>Contact</h2>
+										<div class="content">
+											<p>All the ways to get in contact with me.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style5">
+									<span class="image">
+										<img src="images/pic05.jpg" alt="" />
+									</span>
+									<a href="Cafes.html">
+										<h2>Cafés</h2>
+										<div class="content">
+											<p>A selection of cafés in cities I have visited.</p>
+										</div>
+									</a>
+								</article>
+							</section>
 						</div>
-                    </div>
+					</div>
 
 				<!-- Footer -->
 					<footer id="footer">
