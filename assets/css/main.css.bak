@@ -2797,7 +2797,7 @@ input, select, textarea {
 			}
 			
 			.tiles article.style10 > .image:before {
-				background-color: #e5bd21;
+				background-color: #abd05f;
 			}
 
 			body:not(.is-touch) .tiles article:hover > .image {
