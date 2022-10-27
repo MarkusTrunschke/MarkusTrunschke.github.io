@@ -14,6 +14,16 @@
 		<meta name="keywords" content="Markus Trunschke, ZEW, Mannheim, ZEW-Mannheim, KU Leuven, MSI, Economics, Research, Innovation Economics, Econometrics" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+			
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-0V87MBN9XM"></script>
+		<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+
+  		gtag('config', 'G-0V87MBN9XM');
+		</script>
 
 		<!-- Google Tag Manager -->
 		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -75,7 +85,7 @@
 										<img src="images/mtu_img2.jpg" alt="" />
 									</span>
 								</article>
-								<article class="style3">
+								<article class="style12">
 									<span class="image">
 										<img src="images/pic04.jpg" alt="" />
 									</span>
@@ -97,7 +107,7 @@
 										</div>
 									</a>
 								</article>
-								<article class="style9">
+								<article class="style3">
 									<span class="image">
 										<img src="images/pic02.jpg" alt="" />
 									</span>
@@ -108,7 +118,7 @@
 										</div>
 									</a>
 								</article>
-								<article class="style6">
+								<article class="style10">
 									<span class="image">
 										<img src="images/pic03.jpg" alt="" />
 									</span>
@@ -119,7 +129,7 @@
 										</div>
 									</a>
 								</article>
-								<article class="style10">
+								<article class="style11">
 									<span class="image">
 										<img src="images/pic05.jpg" alt="" />
 									</span>
@@ -133,6 +143,33 @@
 							</section>
 						</div>
 					</div>
+					<!-- Cookie Consent by TermsFeed https://www.TermsFeed.com -->
+					<script type="text/javascript" src="https://www.termsfeed.com/public/cookie-consent/4.0.0/cookie-consent.js" charset="UTF-8"></script>
+					<script type="text/javascript" charset="UTF-8">
+					document.addEventListener('DOMContentLoaded', function () {
+					cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palette":"dark","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false});
+					});
+					</script>
+
+					<noscript>Free cookie consent management tool by <a href="https://www.termsfeed.com/" rel="nofollow noopener">TermsFeed Policy Generator</a></noscript>
+					<!-- End Cookie Consent by TermsFeed https://www.TermsFeed.com -->
+
+
+
+
+
+<!-- Below is the link that users can use to open Preferences Center to change their preferences. Do not modify the ID parameter. Place it where appropriate, style it as needed. -->
+
+<a href="#" id="open_preferences_center">Update cookies preferences</a>
+
+
+
+
+
+
+					<!-- Below is the link that users can use to open Preferences Center to change their preferences. Do not modify the ID parameter. Place it where appropriate, style it as needed. -->
+
+<a href="#" id="open_preferences_center">Update cookies preferences</a>
 
 				<!-- Footer -->
 					<footer id="footer">
